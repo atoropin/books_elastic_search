@@ -1,0 +1,1 @@
+# Laravel + Elasticsearch demo app
